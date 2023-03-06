@@ -1,0 +1,2 @@
+C:\Users\bluep\OneDrive\바탕 화면\Winform_02\obj\Debug\Winform_02.exe
+C:\Users\bluep\OneDrive\바탕 화면\Winform_02\obj\Debug\Winform_02.pdb

@@ -1,0 +1,33 @@
+E:\C#\CSharp\Winform_02\bin\Debug\Winform_02.exe.config
+E:\C#\CSharp\Winform_02\bin\Debug\Winform_02.exe
+E:\C#\CSharp\Winform_02\bin\Debug\Winform_02.pdb
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.csproj.AssemblyReference.cache
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.Form1.resources
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.Properties.Resources.resources
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.csproj.GenerateResource.cache
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.exe
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.pdb
+E:\C#\CSharp\Winform_02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\CSharp\Winform_02\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Buffers.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Memory.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Text.Encodings.Web.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Text.Json.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#\CSharp\Winform_02\bin\Debug\System.ValueTuple.dll
+E:\C#\CSharp\Winform_02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Buffers.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Memory.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Numerics.Vectors.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Text.Encodings.Web.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Text.Json.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\C#\CSharp\Winform_02\bin\Debug\System.ValueTuple.xml
+E:\C#\CSharp\Winform_02\obj\Debug\Winform_02.csproj.CopyComplete
+C:\Users\bluep\OneDrive\바탕 화면\Winform_02\obj\Debug\Winform_02.exe
+C:\Users\bluep\OneDrive\바탕 화면\Winform_02\obj\Debug\Winform_02.pdb
