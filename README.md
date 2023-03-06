@@ -4,3 +4,4 @@
   
 ---
   [Sliding Menu](SlidingMenu)<br>
+  [Loading Window](LoadingWindow)<br>
