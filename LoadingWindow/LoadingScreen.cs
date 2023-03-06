@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LoadingWindow {
+
+    public enum TypeOfMessage {
+        Success,
+        Warning,
+        Error,
+    }
+
+    public static class LoadingScreen {
+        
+        static LoadingWindows sf = null;
+        
+        //없다면 띄우기
+        public static void ShowSplashScreen() {
+            if (sf==null) {
+                sf = new LoadingWindows();
+                sf.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+                sf.ShowSplashScreen();
+            }
+        }
+        //있다면 지우기
+        public static void CloseSplashScreen() {
+            if (sf!=null) {
+                sf.CloseSplashScreen();
+                sf = null;
+            }
+        }
+        public static void updateStatusText(string Text) {
+            if (sf!=null) {
+                sf.UpdateStatusText(Text);
+            }
+        }
+
+        public static void updateStatusTextWithStatus(string Text, TypeOfMessage tom) {
+            if (sf != null) {
+                sf.UpdateStatusTextWithStatus(Text, tom);
+            }
+        }
+    }
+}

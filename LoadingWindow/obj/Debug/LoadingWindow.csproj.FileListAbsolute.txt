@@ -1,0 +1,11 @@
+C:\Users\KB\Desktop\삭제\LoadingWindow\bin\Debug\LoadingWindow.exe.config
+C:\Users\KB\Desktop\삭제\LoadingWindow\bin\Debug\LoadingWindow.exe
+C:\Users\KB\Desktop\삭제\LoadingWindow\bin\Debug\LoadingWindow.pdb
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.LoadingWindows.resources
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.Properties.Resources.resources
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.exe
+C:\Users\KB\Desktop\삭제\LoadingWindow\obj\Debug\LoadingWindow.pdb
