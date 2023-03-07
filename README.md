@@ -17,6 +17,10 @@
   
   [**DirectShow Media**](DirectShow_Media)<br>
   <img src="https://user-images.githubusercontent.com/114325862/223126000-93685d06-8ce4-4346-a558-54a7702b630d.png" width="100" height="100">
+  
+  [**PlayerUI**](PlayerUI)<br>
+  <img src="https://user-images.githubusercontent.com/114325862/223447714-bcb42920-f9ee-460e-918a-bd73b8264d0b.png" width="100" height="100">
+
 
 ---
 
