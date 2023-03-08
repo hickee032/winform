@@ -4,6 +4,7 @@
   [Button, Label, Date](Button_Label_Date)<br>
   [checkBox, radioButton, comboBox](checkBox_radioButton_comboBox)<br>
   [Multi Form](Multi_Form)<br>
+  [Timer](Timer)<br>
 
 ---
   
